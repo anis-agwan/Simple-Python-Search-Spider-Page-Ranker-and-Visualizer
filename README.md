@@ -5,6 +5,14 @@ search engine.  They store their data in a SQLITE3 database named
 'spider.sqlite'.  This file can be removed at any time to restart the
 process.   
 
+Steps for Executing Search Engine python files
+1. Execute spider.py file
+2. Execute sprank.py file
+3. Execute spdump.py file
+4. Execute spjson.py file
+5. Execute 'open force.html' file cmd
+
+
 You should install the SQLite browser to view and modify 
 the databases from:
 
